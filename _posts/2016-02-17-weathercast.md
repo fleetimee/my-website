@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Allbike Content Management System'
+title: 'Allbike Blog'
 date: 2016-02-20 15:56:00
 categories: development
 tags: PHP laravel  Sass
