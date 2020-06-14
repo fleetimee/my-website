@@ -23,6 +23,7 @@ github_username: 'Novian227'
 medium_username: 'steamcommunity.com/id/fleetime/'
 section_title: 'Portfolio'
 section_subtitle: 'Berikut adalah beberapa projek yang telah saya kerjakan'
+site_description: 'My Portfolio'
 
 # Build settings
 markdown: kramdown
