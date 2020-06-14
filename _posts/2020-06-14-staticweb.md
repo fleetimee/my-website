@@ -9,5 +9,5 @@ featured_image: '/img/posts/aaa.PNG'
 project_link: 'https://github.com/Novian227/StaticHTMLWebsite'
 button_icon: 'github'
 button_text: 'View on Github'
-lead_text: 'Ini merupakan tugas akhir perkuliahan perancangan web pada semester 2.'
+lead_text: 'Project ini merupakan tugas akhir perkuliahan perancangan web pada semester 2.'
 ---
