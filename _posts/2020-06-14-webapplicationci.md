@@ -1,7 +1,7 @@
 ---
 layout: left
 position: right
-title: 'Web Kampus Statis'
+title: 'Aplikasi Web Kampus'
 date: 2015-02-21 15:56:00
 categories: development
 tags: PHP Codeigniter 
