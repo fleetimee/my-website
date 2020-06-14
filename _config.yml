@@ -17,7 +17,7 @@ title: "Novian Andika."
 email: 'zane.227@gmail.com'
 description: "Saya adalah seorang web developer pemula."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "novian.tech" # the base hostname & protocol for your site, e.g. https://example.com
+url: "" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'kooongggg'
 github_username: 'Novian227'
 medium_username: 'steamcommunity.com/id/fleetime/'
