@@ -9,5 +9,5 @@ featured_image: '/img/posts/01_allbike-1130x864-2x.png'
 project_link: 'https://github.com/Novian227/allbike-cms'
 button_icon: 'github'
 button_text: 'View on Github'
-lead_text: 'CMS Blog simpel untuk keperluan tugas akhir kuliah saya.'
+lead_text: 'CMS Blog simpel untuk keperluan tugas akhir perkuliahan Development Framework pada semester 4.'
 ---
