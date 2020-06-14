@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "novian.tech" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'kooongggg'
 github_username: 'Novian227'
-medium_username: 'https://steamcommunity.com/id/fleetime/'
+medium_username: 'steamcommunity.com/id/fleetime/'
 
 # Build settings
 markdown: kramdown
@@ -95,7 +95,7 @@ google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
-enable_nav: true
+enable_nav: false
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }

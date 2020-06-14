@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
+title: 'Allbike Content Management System'
 date: 2016-02-20 15:56:00
 categories: development
-tags: JavaScript AngularJS API Sass
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
-project_link: 'http://github.com/jamigibbs/weathercast'
+tags: PHP laravel  Sass
+featured_image: '/img/posts/01_allbike-1130x864-2x.png'
+project_link: 'https://github.com/Novian227/allbike-cms'
 button_icon: 'github'
-button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+button_text: 'Kunjungi'
+lead_text: 'CMS Blog simpel untuk keperluan tugas akhir kuliah saya.'
 ---
