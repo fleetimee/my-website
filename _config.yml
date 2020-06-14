@@ -21,6 +21,8 @@ url: "" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'kooongggg'
 github_username: 'Novian227'
 medium_username: 'steamcommunity.com/id/fleetime/'
+section_title: 'Portfolio'
+section_subtitle: 'Berikut adalah beberapa projek yang telah saya kerjakan'
 
 # Build settings
 markdown: kramdown
@@ -91,7 +93,7 @@ pagination:
 ### Phantom settings
 footer_text: '© 2020 Novian Andika'
 admin_name: 'Novian Andika'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
+google_analytics: "UA-169365096-1" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
